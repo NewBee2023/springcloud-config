@@ -1,3 +1,1 @@
-spring
-  server
-    version: prod
+version: prod
